@@ -42,7 +42,7 @@ export async function fetchDoubanDataClient(
     return handleTop250Client(pageStart);
   }
 
-  const target = `https://movie.douban.com/j/search_subjects?type=${type}&tag=${tag}&sort=recommend&page_limit=${pageSize}&page_start=${pageStart}`;
+  const target = `https://laosebizy.com/index.php/vod/search/page/${pageSize}/wd/%E5%9B%BD%E4%BA%A7.html`;
 
   try {
     const response = await fetchWithTimeout(target);

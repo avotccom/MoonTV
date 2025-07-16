@@ -18,6 +18,13 @@
     "laosebizy": {
       "api": "https://slapibf.com/api.php/provide/vod",
       "name": "森林"
+    },
+    {
+  "cache_time": 7200,
+  "api_site": {
+    "laosebizy": {
+      "api": "https://caiji.semaozy.net/inc/api.php/provide/vod",
+      "name": "色猫"
     }
   }
 }

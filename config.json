@@ -4,6 +4,13 @@
     "laosebizy": {
       "api": "https://apilsbzy1.com/api.php/provide/vod",
       "name": "老司机"
+    },
+    {
+  "cache_time": 7200,
+  "api_site": {
+    "laosebizy": {
+      "api": "https://155api.com/api.php/provide/vod",
+      "name": "115"
     }
   }
 }

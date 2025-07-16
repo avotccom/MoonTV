@@ -25,6 +25,48 @@
     "laosebizy": {
       "api": "https://caiji.semaozy.net/inc/api.php/provide/vod",
       "name": "色猫"
+    },
+    {
+  "cache_time": 7200,
+  "api_site": {
+    "laosebizy": {
+      "api": "https://www.msnii.com/api/xml.php",
+      "name": "美少女"
+    },
+    {
+  "cache_time": 7200,
+  "api_site": {
+    "laosebizy": {
+      "api": "https://www.xrbsp.com/api/xml.php",
+      "name": "淫水机"
+    },
+    {
+  "cache_time": 7200,
+  "api_site": {
+    "laosebizy": {
+      "api": "https://www.gdlsp.com/api/xml.php",
+      "name": "香奶儿"
+    },
+    {
+  "cache_time": 7200,
+  "api_site": {
+    "laosebizy": {
+      "api": "https://www.kxgav.com/api/xml.php",
+      "name": "白嫖"
+    },
+    {
+  "cache_time": 7200,
+  "api_site": {
+    "laosebizy": {
+      "api": "https://www.afasu.com/api/xml.php",
+      "name": "小湿妹"
+    },
+    {
+  "cache_time": 7200,
+  "api_site": {
+    "laosebizy": {
+      "api": "https://www.pgxdy.com/api/xml.php",
+      "name": "黄AV"
     }
   }
 }

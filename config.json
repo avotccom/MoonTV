@@ -11,6 +11,13 @@
     "laosebizy": {
       "api": "https://155api.com/api.php/provide/vod",
       "name": "115"
+    },
+    {
+  "cache_time": 7200,
+  "api_site": {
+    "laosebizy": {
+      "api": "https://slapibf.com/api.php/provide/vod",
+      "name": "森林"
     }
   }
 }

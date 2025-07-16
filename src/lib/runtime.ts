@@ -5,9 +5,8 @@ export const config = {
   cache_time: 7200,
   api_site: {
     dyttzy: {
-      api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
-      name: '电影天堂资源',
-      detail: 'http://caiji.dyttzyapi.com',
+      api: 'https://apilsbzy1.com/api.php/provide/vod',
+      name: '老司机',
     },
     heimuer: {
       api: 'https://json.heimuer.xyz/api.php/provide/vod',

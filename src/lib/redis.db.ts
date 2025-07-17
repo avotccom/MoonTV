@@ -6,7 +6,7 @@ import { AdminConfig } from './admin.types';
 import { Favorite, IStorage, PlayRecord } from './types';
 
 // 搜索历史最大条数
-const SEARCH_HISTORY_LIMIT = 20;
+const SEARCH_HISTORY_LIMIT = 50;
 
 // 添加Redis操作重试包装器
 async function withRetry<T>(

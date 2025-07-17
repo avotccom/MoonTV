@@ -40,6 +40,10 @@
     "huangav": {
       "api": "https://www.pgxdy.com/api/xml.php",
       "name": "黄AV"
+    },
+    "shayu": {
+      "api": "https://shayuapi.com/api.php/provide/vod",
+      "name": "鲨鱼"
     }
   }
 }

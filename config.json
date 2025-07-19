@@ -93,9 +93,37 @@
       "api": "https://jkunzyapi.com/api.php/provide/vod",
       "name": "JKUN"
     },
-    "快播": {
+    "kuaibo": {
       "api": "https://gayapi.com/api.php/provide/vod",
       "name": "快播"
+    },
+    "dadi": {
+      "api": "https://dadiapi.com/api.php/provide/vod",
+      "name": "大地"
+    },
+    "ckzy": {
+      "api": "https://ckzy.me/api.php/provide/vod",
+      "name": "CK资源"
+    },
+    "fanhao": {
+      "api": "http://fhapi9.com/api.php/provide/vod",
+      "name": "番号资源"
+    },
+    "laosebi": {
+      "api": "https://apilsbzy1.com/api.php/provide/vod",
+      "name": "老色逼"
+    },
+    "caoliu": {
+      "api": "https://www.caoliuzyw.com/api.php/provide/vod",
+      "name": "草榴"
+    },
+    "xibaowang": {
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod",
+      "name": "细胞网"
+    },
+    "xiaoji": {
+      "api": "https://api.xiaojizy.live/provide/vod",
+      "name": "小鸡"
     }
   }
 }

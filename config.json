@@ -124,6 +124,18 @@
     "xiaoji": {
       "api": "https://api.xiaojizy.live/provide/vod",
       "name": "小鸡"
+    },
+    "hsckzy888": {
+      "api": "https://hsckzy888.com/api.php/provide/vod",
+      "name": "黄色仓库"
+    },
+    "soa": {
+      "api": "https://api.souavzy.vip/api.php/provide/vod",
+      "name": "搜A"
+    },
+    "lsb": {
+      "api": "https://apilsbzy1.com/api.php/provide/vod",
+      "name": "lsb资源"
     }
   }
 }
